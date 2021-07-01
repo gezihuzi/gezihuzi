@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[Work-at-home](https://user-images.githubusercontent.com/12797966/124154678-4c19b680-dac8-11eb-8a31-f3dab8ef6d9d.png)
+<p float="left" align="center">
+    <img src="https://github.com/jaredyam/gezihuzi/blob/main/Work at home-01.svg" width="800" />
+</p>
 
 <!--
 **gezihuzi/gezihuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
