@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p float="left" align="center">
-    <img src="https://github.com/jaredyam/gezihuzi/blob/main/Work at home-01.svg" width="800" />
+    <img src="https://github.com/gezihuzi/gezihuzi/blob/main/work-at-home.svg" width="270" />
 </p>
 
 <!--
