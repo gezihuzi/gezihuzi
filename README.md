@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+[Work-at-home](https://user-images.githubusercontent.com/12797966/124154678-4c19b680-dac8-11eb-8a31-f3dab8ef6d9d.png)
+
 <!--
 **gezihuzi/gezihuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...!
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
